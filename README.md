@@ -1,11 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/cVDVbTjj)
 Portfolio Assignment
-==========================================
+[![GitHub Classroom Workflow](https://github.com/IT3049C-Lively-FA23/online-portfolio-sawyervd123/actions/workflows/classroom.yml/badge.svg)](https://github.com/IT3049C-Lively-FA23/online-portfolio-sawyervd123/actions/workflows/classroom.yml)
 ![Assignment Checks](https://github.com/IT3049C/1.student-portfolio/workflows/Assignment%20Checks/badge.svg)
 
 Instructions to this assignment can be found [here](https://reedws.github.io/IT3049C/coursework/assignments/online-portfolio/).
 
-## Checklist:
+- [x] update the assignment checks above to the correct link. - Done Automatically
 - [ ] update the assignment checks above to the correct link
 - [ ] fill out the self evaluation and Reflection
 - [ ] submit the repository and the hosted github pages to Canvas
